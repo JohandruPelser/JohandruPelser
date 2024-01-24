@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohandruPelser
 - 👀 I’m interested in programming, computer hardware and cybersecurity
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on N/A
+- 💞️ I’m looking to collaborate on various projects, if possible.
 - 📫 How to reach me https://www.linkedin.com/in/johandru-pelser-331307251/ or johandru.pelser@tutanota.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've created some simple projects in the past, but never uploaded them to GitHub.
